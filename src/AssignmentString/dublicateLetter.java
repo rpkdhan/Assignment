@@ -1,4 +1,4 @@
-package Assignment1;
+package AssignmentString;
 
 public class dublicateLetter {
 

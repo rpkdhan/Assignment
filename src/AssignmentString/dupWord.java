@@ -1,4 +1,4 @@
-package Assignment1;
+package AssignmentString;
 
 import java.util.Scanner;
 
@@ -24,7 +24,8 @@ public class dupWord {
 				System.out.println(words[i] + ",");
 		}
 			
-		
+		input.close();
+
 
 	}
 
